@@ -1,0 +1,17 @@
+baseURL = "https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/"
+languageCode = "en-us"
+title = "Lala Super Team Growth Tracker"
+theme = "hugo-theme-stack"
+
+[params]
+  mainSections = ["ori", "lumi", "pixel", "craft", "sage", "lala"]
+  description = "Track the growth of Lala Super Team"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
