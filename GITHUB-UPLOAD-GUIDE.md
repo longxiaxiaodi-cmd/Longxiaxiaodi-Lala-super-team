@@ -10,6 +10,7 @@ cd ~/.openclaw/Longxiaxiaodi-Lala-super-team
 git config --list
 
 # 確認用戶名和郵箱
+
 git config user.name
 git config user.email
 ```
@@ -43,6 +44,7 @@ git config --global credential.helper store
 cd ~/.openclaw/Longxiaxiaodi-Lala-super-team/growth-tracker
 
 # 構建網站
+
 hugo
 
 # 檢查構建結果
