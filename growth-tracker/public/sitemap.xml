@@ -2,22 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/craft/</loc>
+    <loc>//localhost:1313/craft/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/lala/</loc>
+    <loc>//localhost:1313/lala/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/lumi/</loc>
+    <loc>//localhost:1313/lumi/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/ori/</loc>
+    <loc>//localhost:1313/ori/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/pixel/</loc>
+    <loc>//localhost:1313/pixel/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/sage/</loc>
+    <loc>//localhost:1313/sage/</loc>
   </url><url>
-    <loc>https://longxiaxiaodi-cmd.github.io/Longxiaxiaodi-Lala-super-team/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/main/</loc>
   </url>
 </urlset>
